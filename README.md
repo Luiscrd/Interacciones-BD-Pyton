@@ -4,8 +4,15 @@
 
 # Interacciones-BD-Pyton
 
+## Crear un entorno virtual
+
+```
+$ python -m venv 'Nombre'
+```
+[Info](https://docs.python.org/es/3.10/library/venv.html) Creación de entornos virtuales
+
 ## Install requeriments
 
 ```
-python install requeriments.txt
+$ python install requeriments.txt
 ```
